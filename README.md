@@ -1,6 +1,6 @@
 # learning-iOS
-Handpicked iOS resources to start learning iOS development, articles, blogs, repositories by categories.
-Feel free to contribute to the repositories, I'll be actively reviewing pull requests. Would also give suggestions.
+Handpicked iOS resources to start learning iOS development, articles, blogs, repositories by categories. <br/><br/>
+Feel free to _**contribute**_ to the repositories, I'll be _**actively reviewing pull requests**_. Would also give suggestions to your changes if needed.
 These codes are written solely for learning concepts and intentionally not marked upto best coding practices, modify to make it match the best of coding standards. (i.e. This will improve your coding skills.)
 
 - Improve Performance of the apps
@@ -10,8 +10,10 @@ These codes are written solely for learning concepts and intentionally not marke
 # iOS Learning Resources
 
 ### Repositories (Based on learning concepts)
-- [UICollectionView](https://github.com/jharsh1202/UICollectionAssignment-iOS)
-- [CoreML, Vision, Camera](https://github.com/jharsh1202/Object-Recognition-iOS)
+- [Using UICollectionView, UICollectionViewDataSource, UICollectionViewDelegate, MVC](https://github.com/jharsh1202/UICollectionAssignment-iOS)
+- [Using your device's camera, Using CoreML, Vision libraries](https://github.com/jharsh1202/Object-Recognition-iOS)
+- [Calling REST API, Using Codable(Encoder & Decoder), Dark Mode, Night Mode, Auto Layout(Horizontal, Vertical), Adding Images, Logos, SF Symbols](https://github.com/jharsh1202/mausome-iOS)
+- [Play media(Audio) using AVFoundation Library](https://github.com/jharsh1202/xylophone-iOS)
 
 A comprehensive collection of the best iOS articles and blogs.
 <br/>
