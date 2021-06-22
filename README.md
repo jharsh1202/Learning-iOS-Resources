@@ -1,6 +1,11 @@
 # learning-iOS
 Handpicked iOS resources to start learning iOS development, articles, blogs, repositories by categories.
+Feel free to contribute to the repositories, I'll be actively reviewing pull requests. Would also give suggestions.
+These codes are written solely for learning concepts and intentionally not marked upto best coding practices, modify to make it match the best of coding standards. (i.e. This will improve your coding skills.)
 
+- Improve Performance of the apps
+- Improve coding structure, model
+- Improve verbosity and readibility
 
 # iOS Learning Resources
 
