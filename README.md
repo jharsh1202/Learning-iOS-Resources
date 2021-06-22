@@ -16,6 +16,8 @@ These codes are written solely for learning concepts and intentionally not marke
 - [Using your device's Camera, also CoreML, Vision Apple libraries](https://github.com/jharsh1202/Object-Recognition-iOS)
 - [Calling REST API, Using Codable(Encoder & Decoder), Dark Mode, Night Mode, Auto Layout(Horizontal, Vertical), Adding Images, Logos, SF Symbols](https://github.com/jharsh1202/mausome-iOS)
 - [Play media(Audio) using AVFoundation Library](https://github.com/jharsh1202/xylophone-iOS)
+- [Using Camera](https://github.com/jharsh1202/Camera-iOS)
+- [Using PhotoLibrary](https://github.com/jharsh1202/PhotoLibrary-iOS)
 
 ### Repositories (Based On Title)
 - [Object Detection with Live Camera Captured Image](https://github.com/jharsh1202/Object-Recognition-iOS)
