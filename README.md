@@ -4,9 +4,9 @@ Handpicked iOS resources to start learning iOS development, articles, blogs, rep
 
 # iOS Learning Resources
 
-### Repositories
+### Repositories (Based on learning concepts)
 - [UICollectionView](https://github.com/jharsh1202/UICollectionAssignment-iOS)
-- [Object Recognition - CoreML, Vision, Camera](https://github.com/jharsh1202/Object-Recognition-iOS)
+- [CoreML, Vision, Camera](https://github.com/jharsh1202/Object-Recognition-iOS)
 
 A comprehensive collection of the best iOS articles and blogs.
 <br/>
