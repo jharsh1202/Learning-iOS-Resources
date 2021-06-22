@@ -1,4 +1,6 @@
-# learning-iOS
+For any questions regarding iOS development or if you get stuck while using git/github or setting up projects, feel free to contact me at harshit120299@gmail.com </br>
+
+# Learning-iOS
 Handpicked iOS resources to start learning iOS development, articles, blogs, repositories by categories. <br/><br/>
 Feel free to _**contribute**_ to the repositories, I'll be _**actively reviewing pull requests**_. Would also give suggestions to your changes if needed.
 These codes are written solely for learning concepts and intentionally not marked upto best coding practices, modify to make it match the best of coding standards. (i.e. This will improve your coding skills.)
@@ -9,13 +11,13 @@ These codes are written solely for learning concepts and intentionally not marke
 
 # iOS Learning Resources
 
-### Repositories (Based on learning concepts)
+### Repositories (Based On Tools/Components/Concepts)
 - [Using UICollectionView, UICollectionViewDataSource, UICollectionViewDelegate, MVC](https://github.com/jharsh1202/UICollectionAssignment-iOS)
 - [Using your device's Camera, also CoreML, Vision Apple libraries](https://github.com/jharsh1202/Object-Recognition-iOS)
 - [Calling REST API, Using Codable(Encoder & Decoder), Dark Mode, Night Mode, Auto Layout(Horizontal, Vertical), Adding Images, Logos, SF Symbols](https://github.com/jharsh1202/mausome-iOS)
 - [Play media(Audio) using AVFoundation Library](https://github.com/jharsh1202/xylophone-iOS)
 
-### Repositories (Based on title)
+### Repositories (Based On Title)
 - [Object Detection with Live Camera Captured Image](https://github.com/jharsh1202/Object-Recognition-iOS)
 - [Weather App](https://github.com/jharsh1202/mausome-iOS)
 - [Xylophone App](https://github.com/jharsh1202/xylophone-iOS)
@@ -130,4 +132,4 @@ A comprehensive collection of the best iOS articles and blogs.
 
 
 ## Contact
-For more awesome stuff, you should follow me on twitter [@Harshit120299](https://twitter.com/Harshit120299) :)
+For more such awesome stuff, you may follow me on twitter [@Harshit120299](https://twitter.com/Harshit120299) :) and feel free to ask any questions!
