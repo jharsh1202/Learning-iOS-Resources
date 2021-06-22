@@ -11,9 +11,14 @@ These codes are written solely for learning concepts and intentionally not marke
 
 ### Repositories (Based on learning concepts)
 - [Using UICollectionView, UICollectionViewDataSource, UICollectionViewDelegate, MVC](https://github.com/jharsh1202/UICollectionAssignment-iOS)
-- [Using your device's camera, Using CoreML, Vision libraries](https://github.com/jharsh1202/Object-Recognition-iOS)
+- [Using your device's Camera, also CoreML, Vision Apple libraries](https://github.com/jharsh1202/Object-Recognition-iOS)
 - [Calling REST API, Using Codable(Encoder & Decoder), Dark Mode, Night Mode, Auto Layout(Horizontal, Vertical), Adding Images, Logos, SF Symbols](https://github.com/jharsh1202/mausome-iOS)
 - [Play media(Audio) using AVFoundation Library](https://github.com/jharsh1202/xylophone-iOS)
+
+### Repositories (Based on title)
+- [Object Detection with Live Camera Captured Image](https://github.com/jharsh1202/Object-Recognition-iOS)
+- [Weather App](https://github.com/jharsh1202/mausome-iOS)
+- [Xylophone App](https://github.com/jharsh1202/xylophone-iOS)
 
 A comprehensive collection of the best iOS articles and blogs.
 <br/>
