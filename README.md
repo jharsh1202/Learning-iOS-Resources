@@ -4,8 +4,8 @@ Feel free to _**contribute**_ to the repositories, I'll be _**actively reviewing
 These codes are written solely for learning concepts and intentionally not marked upto best coding practices, modify to make it match the best of coding standards. (i.e. This will improve your coding skills.)
 
 - Improve Performance of the apps
-- Improve coding structure, model
-- Improve verbosity and readibility
+- Improve Coding Structure, Model
+- Improve Brevity and readibility
 
 # iOS Learning Resources
 
